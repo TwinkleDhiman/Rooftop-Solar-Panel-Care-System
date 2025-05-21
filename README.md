@@ -1,4 +1,4 @@
-# Rooftop Solar-panel Care System
+# Rooftop Solar-Panel Care System
 The Rooftop Solar Panel Cleaner is an automated cleaning system designed to maintain optimal efficiency of solar panels by regularly removing dust, dirt, and debris. This project provides a cost-effective and safe alternative to manual cleaning, especially for panels installed in hard-to-reach or high-altitude locations. By automating the cleaning process, it reduces maintenance costs and improves the overall energy output of solar installations.
 
 Features are
