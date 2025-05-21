@@ -19,5 +19,5 @@ Increases solar panel efficiency by reducing dirt-induced power losses.
 Reduces manual labor and cleaning risks.
 Improves lifespan and reliability of solar panels.
 
-Working of the project:
+Working of the project 
 This is a autonomous robotic system built on a four-wheel robot chassis controlled by an ESP32 microcontroller. It is designed to navigate, detect obstacles, and perform cleaning . The robot uses DC motors to move the wheels , IR sensors for edge or line detection, and an ultrasonic sensor to avoid obstacles. A relay module is controlled by the ESP32. It can switch ON/OFF an external load such as a motorized brush.
