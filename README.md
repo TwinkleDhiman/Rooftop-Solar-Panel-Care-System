@@ -15,11 +15,11 @@ IR sensor
 Relay
 Power supply (battery)
 
-Benefits are as follows
-Increases solar panel efficiency by reducing dirt.
-Improves lifespan of solar panels.
-
 Working of the project 
 ESP32 to controls a 4-wheel robot chassis that moves across the panel surface. 
+
 The ESP32 activates a cleaning mechanism via a relay which is further connected to DC motor.
 The robot is also controllable through a user interface 
+
+https://github.com/user-attachments/assets/eed022da-670b-40db-a5a2-ab6dc28e3fc0
+
