@@ -23,3 +23,7 @@ The robot is also controllable through a user interface
 
 https://github.com/user-attachments/assets/eed022da-670b-40db-a5a2-ab6dc28e3fc0
 
+
+![photo 1](https://github.com/user-attachments/assets/6c0d64d2-2d70-4a90-a66e-678df6917754)
+![photo 2](https://github.com/user-attachments/assets/8ea07bc5-279d-44f9-a7c0-a370f6cb2175)
+![photo 3](https://github.com/user-attachments/assets/01444a6b-e906-4361-95ae-e6a6ca5f2b56)
